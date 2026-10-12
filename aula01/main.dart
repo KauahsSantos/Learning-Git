@@ -1,5 +1,3 @@
 void main(List<String> args) {
-  print("INtrodução ao Git");
-
-  
+  print("Introdução ao Git");
 }
