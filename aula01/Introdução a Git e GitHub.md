@@ -2,4 +2,4 @@
 
 ****
 
-Bom
+Bom git é um VSC.
