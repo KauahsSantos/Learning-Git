@@ -2,4 +2,17 @@
 
 ****
 
-Bom git é um VSC.
+- [ ] fazer anotações sobre
+	- [ ] git no geral
+	- [ ] github
+	- [ ] git comandos básicos
+		- [ ] git add .
+			- [ ] git add ./  | por path
+		- [ ] git commit
+		- [ ] git  push
+		- [ ] git pull
+		- [ ] git add remote origin
+		- [ ] git show
+		- [ ] git log --online
+		- [ ] git diff
+		- [ ] git restore --staged
