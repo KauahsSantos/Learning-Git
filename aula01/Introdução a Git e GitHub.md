@@ -9,8 +9,9 @@
 		- [ ] git add .
 			- [ ] git add ./  | por path
 		- [ ] git commit
-		- [ ] git  push
+		- [ ] git push
 		- [x] git pull
+		- [ ] git fetch
 		- [ ] git add remote origin
 		- [ ] git show
 		- [ ] git log --online
