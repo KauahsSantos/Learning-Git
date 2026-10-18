@@ -10,7 +10,7 @@
 			- [ ] git add ./  | por path
 		- [ ] git commit
 		- [ ] git  push
-		- [ ] git pull
+		- [x] git pull
 		- [ ] git add remote origin
 		- [ ] git show
 		- [ ] git log --online
