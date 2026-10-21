@@ -24,3 +24,7 @@
 	- [ ] git checkout
     	- [ ] git checkout {nome-da-branch}
     	- [ ] git checkout -b {nome-da-branch}
+  
+****
+
+# Adicionar todos esses conteudos no Obsidian
