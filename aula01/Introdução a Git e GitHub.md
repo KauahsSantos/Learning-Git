@@ -17,3 +17,6 @@
 		- [ ] git log --online
 		- [ ] git diff
 		- [ ] git restore --staged
+	- [ ] git branch
+      	- [ ] git branch -l | git branch -la | git branch -lav
+	- [ ] git checkout
