@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c15bde228de97d70",
@@ -182,10 +183,11 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10543e132fa466af",
+  "active": "009460424d8a5034",
   "lastOpenFiles": [
     "Organização.md",
     "aula01/Introdução a Git e GitHub.md"
