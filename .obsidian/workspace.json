@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +202,7 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "2c9002b6acfdb6df",
+  "active": "009460424d8a5034",
   "lastOpenFiles": [
     "Organização.md",
     "aula01/Introdução a Git e GitHub.md"
