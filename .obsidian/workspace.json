@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c15bde228de97d70",
@@ -99,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aula01/Introdução a Git e GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +168,19 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "2c9002b6acfdb6df",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,11 +195,16 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
   "active": "009460424d8a5034",
   "lastOpenFiles": [
+    "Organização.md",
     "aula01/Introdução a Git e GitHub.md"
   ]
 }

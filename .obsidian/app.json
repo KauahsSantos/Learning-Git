@@ -1,5 +1,7 @@
 {
   "readableLineLength": true,
   "showLineNumber": false,
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
